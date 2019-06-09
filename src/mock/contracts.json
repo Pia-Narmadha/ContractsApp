@@ -1,0 +1,62 @@
+[
+    {
+      "type":"Sub-Contract",
+      "text":"Sub-Contract 1 Sub-Contract 1",
+      "disambiguation":{
+        "Conduttore":"Conduttore",
+        "Locatore":"Locatore",
+        "consegna":"consegna",
+        "decorrenza":"decorrenza",
+        "Economica":"Economica",
+        "Indirizzo":"Indirizzo",
+        "Località":"Località",
+        "Sbloccaitalia":"Sblocca-italia"
+      },
+      "count":"0"
+    },
+    {
+      "type":"Main-Contract",
+      "text":"Main-Contract Main-Contract 1",
+      "disambiguation":{
+        "Conduttore":"Conduttore",
+        "Locatore":"Locatore",
+        "consegna":"consegna",
+        "decorrenza":"decorrenza",
+        "Economica":"Economica",
+        "Indirizzo":"Indirizzo",
+        "Località":"Località",
+        "Sblocca-italia":"Sblocca-italia"
+      },
+      "count":"0"
+    },
+    {
+      "type":"Lease contract",
+      "text":"Lease contract Lease contract 1",
+      "disambiguation":{
+        "Conduttore":"Conduttore",
+        "Locatore":"Locatore",
+        "consegna":"consegna",
+        "decorrenza":"decorrenza",
+        "Economica":"Economica",
+        "Indirizzo":"Indirizzo",
+        "Località":"Località",
+        "Sblocca-italia":"Sblocca-italia"
+      },
+      "count":"0"
+    },
+    {
+      "type":"Home contract",
+      "text":"Home contract Home contract 1",
+      "disambiguation":{
+        "Conduttore":"Conduttore",
+        "Locatore":"Locatore",
+        "consegna":"consegna",
+        "decorrenza":"decorrenza",
+        "Economica":"Economica",
+        "Indirizzo":"Indirizzo",
+        "Località":"Località",
+        "Sblocca-italia":"Sblocca-italia"
+      },
+      "count":"0"
+    }
+   ]
